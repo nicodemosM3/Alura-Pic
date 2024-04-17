@@ -1,4 +1,4 @@
-describe('Página de cadastro', () => {
+describe('Página de cadastro', () => { //Automação para testar o cadastro incorreto na Alura Pic
 
     beforeEach(() => {
         cy.visit('http://localhost:4200')

@@ -1,4 +1,4 @@
-describe('Página de login', () => {
+describe('Página de login', () => { //Automação para testar o login correto na Alura Pic
 
     beforeEach(() => {
         cy.visit('http://localhost:4200')

@@ -1,5 +1,4 @@
-//Testando via API para verificar a busca a foto exata
-describe('Buscar fotos e dados', () => {
+describe('Buscar fotos e dados', () => { //Automação para testar via API para verificar a busca a foto exata
 
     //it('buscar fotos do usuário', () => {        
        // cy.request({

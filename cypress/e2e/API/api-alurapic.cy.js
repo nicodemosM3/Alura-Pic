@@ -1,8 +1,9 @@
+//Testando via API para verificar a busca a foto exata
 describe('Buscar fotos e dados', () => {
 
     //it('buscar fotos do usuário', () => {        
        // cy.request({
-           // method: 'POST' ,
+            //method: 'POST' ,
             //url: 'http://localhost:3000/user/login',
             //body: Cypress.env()
         //}).then((res) => {

@@ -1,4 +1,4 @@
-import Cadastro from '../support/pages/cadastro/pagina-cadastro'
+import Cadastro from '../../support/pages/cadastro/pagina-cadastro' //Automação para testar o cadastro com sucesso da alura Pic
 
 describe('Página de cadastro', () => {
 
